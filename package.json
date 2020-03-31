@@ -1,0 +1,10 @@
+{
+    "name": "ParentProject",
+    "version": "0.0.1",
+    "private": true,
+    "devDependencies": {
+        "babel-eslint": "^10.0.3",
+        "babel-plugin-styled-components": "^1.10.6"
+    }
+}
+
